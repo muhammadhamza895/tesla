@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tesla/static/css/main.929f9b7c.css",
+    "main.js": "/tesla/static/js/main.b7e19d8a.js",
+    "static/media/vid.mp4": "/tesla/static/media/vid.7332554b401b95acd234.mp4",
+    "static/media/img1.avif": "/tesla/static/media/img1.206c736f8246cf0eab85.avif",
+    "static/media/img4.avif": "/tesla/static/media/img4.47d54de71d17524f450e.avif",
+    "static/media/img5.avif": "/tesla/static/media/img5.11babf1e5b89d31a1365.avif",
+    "static/media/img2.avif": "/tesla/static/media/img2.52926425e2dd24eaee2e.avif",
+    "static/media/img3.avif": "/tesla/static/media/img3.d693d76ef3226f18c903.avif",
+    "static/media/shop2.avif": "/tesla/static/media/shop2.56718b100e915a7e0203.avif",
+    "static/media/charging3.avif": "/tesla/static/media/charging3.7c69be662c42f577f82b.avif",
+    "static/media/energy2.avif": "/tesla/static/media/energy2.5ff1c92c72e39a4cbfef.avif",
+    "static/media/shop3.avif": "/tesla/static/media/shop3.7e5fa713dfb46a93fa98.avif",
+    "static/media/vehicle2.avif": "/tesla/static/media/vehicle2.9bf05f014886d732d938.avif",
+    "static/media/vehicle4.avif": "/tesla/static/media/vehicle4.1fcd3421048564045a94.avif",
+    "static/media/vehicle3.avif": "/tesla/static/media/vehicle3.233ee3f4e0b9f4baa17a.avif",
+    "static/media/vehicle1.avif": "/tesla/static/media/vehicle1.4f82d435ba5bf9a64998.avif",
+    "static/media/energy1.avif": "/tesla/static/media/energy1.cd7ad1517e4a61d0b5db.avif",
+    "static/media/shop4.avif": "/tesla/static/media/shop4.628f9fdfde7fc137950e.avif",
+    "static/media/charging1.avif": "/tesla/static/media/charging1.5aeb77faa02ba229c011.avif",
+    "static/media/energy4.avif": "/tesla/static/media/energy4.e38d7d396f8a1d8a75a1.avif",
+    "static/media/energy3.avif": "/tesla/static/media/energy3.e8cc998a66092fd2ba0d.avif",
+    "static/media/charging2.avif": "/tesla/static/media/charging2.47ebd273f295e621051f.avif",
+    "static/media/shop1.avif": "/tesla/static/media/shop1.47ebd273f295e621051f.avif",
+    "index.html": "/tesla/index.html",
+    "static/media/tesla-logo.svg": "/tesla/static/media/tesla-logo.683548cb3e6cedbe7403c0b8e7ba0f5f.svg",
+    "main.929f9b7c.css.map": "/tesla/static/css/main.929f9b7c.css.map",
+    "main.b7e19d8a.js.map": "/tesla/static/js/main.b7e19d8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.929f9b7c.css",
+    "static/js/main.b7e19d8a.js"
+  ]
+}
